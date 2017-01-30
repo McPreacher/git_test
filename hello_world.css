@@ -1,0 +1,35 @@
+/* Css stylesheet for hello_world */
+
+*  {
+  font-family: 'Georgia', 'Times', serif;
+  color: darkslategray;
+  background-color: darkseagreen;
+   }
+  
+h1 {
+   color: dimgray;
+   text-decoration: none;
+   text-align: center;
+   font-size: 50px;
+   }
+   
+p  {
+   font-size: 25px;
+   }
+   
+
+  
+img  {
+   border-radius: 100%;
+   }
+   
+ul  {
+   text-align: center;
+   list-style:none;
+   font-size: 25px;
+   }
+   
+ 
+
+   
+
