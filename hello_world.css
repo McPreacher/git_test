@@ -2,19 +2,24 @@
 
 *  {
   font-family: 'Georgia', 'Times', serif;
-  color: darkslategray;
-  background-color: darkseagreen;
+  color:  teal;
+  background-color: coral;
    }
   
 h1 {
-   color: dimgray;
-   text-decoration: none;
+    text-decoration: none;
    text-align: center;
    font-size: 50px;
+   font-family: Impact, serif;
+   text-transform: uppercase;
+   font-style: italic;
+   font-weight: normal;
    }
    
 p  {
    font-size: 25px;
+
+   
    }
    
 
@@ -27,9 +32,10 @@ ul  {
    text-align: center;
    list-style:none;
    font-size: 25px;
+   border: inset 4px FireBrick;
+   padding: 4px;
    }
-   
- 
+
 
    
 
