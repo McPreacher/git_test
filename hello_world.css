@@ -35,7 +35,16 @@ ul  {
    border: inset 4px FireBrick;
    padding: 4px;
    }
-
+   
+.jsbuttons {
+		border: 1px black;
+		background-color: seagreen;
+		color: black;
+		margin-left: 258px;
+		margin-top: 10px;
+		position: relative;
+		border-style: ridge;
+		}
 
    
 
